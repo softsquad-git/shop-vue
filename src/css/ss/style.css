@@ -1,0 +1,37 @@
+.text-weight-300{
+  font-weight: 300!important;
+}
+.display-block{
+  display: block;
+}
+.ml-20{
+  margin-left: 20px;
+}
+.ml-5 {
+  margin-left: 5px;
+}
+.p-10{
+  padding: 10px;
+}
+.ss-show-acc--product-title {
+  text-transform: uppercase;
+  font-size: 13px;
+  color: gray;
+  border-bottom: 1px solid #e8e8e8;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.width-search-modal{
+  width: 560px;
+  padding: 10px;
+}
+.null-product {
+  font-weight: bold;
+  background: radial-gradient(#f37f7f, #90343400);
+}
+.q-form {
+  position: relative;
+  border: 1px solid #dedede;
+  padding: 15px;
+  border-radius: 3px;
+}
